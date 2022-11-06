@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SimpleChat](https://github.com/zvarychhh/SimpleChat)
 
-- 🌱 I’m currently learning **Android SDK, Kotlin, Java, Jetpack Compose,**
+- 🌱 I’m currently learning **Android SDK, Kotlin, Jetpack Compose,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zvarychhh?tab=repositories](https://github.com/zvarychhh?tab=repositories)
 
